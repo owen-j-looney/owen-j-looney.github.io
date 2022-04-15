@@ -1,12 +1,12 @@
 # owen-j-looney.github.io
 This is my Project website - used to provide links to simple pieces of work done that showcase skills learnt and simply present some of the stuff I like to spend my spare time doing.
 
-### The projects below are quick simple projects, with the aim to be completed in a few hours, with the aim being to show ability and produce products quickly, as is sometimes required in business.
+### The projects below are quick simple projects, which I aimed to complete in a few hours. The purpose of these is simply to show certain abilities and produce products quickly, as is sometimes required in business settings.
 
 Library analysis can be found [here](https://owen-j-looney.github.io/libraries_analysis/)
 
 Market basket analysis can be found [here](https://owen-j-looney.github.io/Market_basket_analysis/)
 
-### The projects below are longer projects with the aim of these to improve data skills and refine newer techniques
+### The projects below are longer projects with the aim of these being to improve data skills and refine newer techniques.
 
 Horse racing analysis coming soon 
