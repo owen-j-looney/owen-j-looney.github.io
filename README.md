@@ -1,5 +1,5 @@
 # owen-j-looney.github.io
-This is my Project website - used to provide links to simple pieces of work done that 
+This is my Project website - used to provide links to simple pieces of work done that showcase skills learnt and simply present some of the stuff I like to spend my spare time doing.
 
 ### The projects below are quick simple projects, with the aim to be completed in a few hours, with the aim being to show ability and produce products quickly, as is sometimes required in business.
 
