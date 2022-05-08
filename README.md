@@ -11,4 +11,4 @@ Market basket analysis can be found [here](https://owen-j-looney.github.io/Marke
 
 Basic shiny spatial map  can be found [here](https://owen-looney.shinyapps.io/spatial_mapping/)
 
-Horse racing analysis coming soon 
+Horse racing analysis can be found [here](https://owen-j-looney.github.io/horse_racing_analysis/)
